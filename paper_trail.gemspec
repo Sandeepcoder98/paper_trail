@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.platform      = Gem::Platform::RUBY
   s.summary       = "Track changes to your models' data. Good for auditing or versioning."
   s.description   = s.summary
-  s.homepage      = 'https://github.com/airblade/paper_trail'
-  s.authors       = ['Andy Stewart', 'Ben Atkins']
-  s.email         = 'batkinz@gmail.com'
+  s.homepage      = 'https://github.com/Sandeepcoder98/paper_trail'
+  s.authors       = ['Sandeep', 'Coder98']
+  s.email         = 'sandeep.coder98@gmail.com'
   s.license       = 'MIT'
 
   s.files         = `git ls-files`.split("\n")
